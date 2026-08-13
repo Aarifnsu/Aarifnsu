@@ -3,12 +3,13 @@
 <h1>MD ARIFUL ISLAM</h1>
 <h3>Shopify Web Developer &nbsp;·&nbsp; AI Automation Engineer &nbsp;·&nbsp; SEO &amp; Social Media Analyst</h3>
 
-<a href="https://aarifnsu.github.io/Portfolio/">
+<a href="https://aarifnsu.github.io/arif/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&width=650&lines=Shopify+Web+Developer+%7C+Theme+%26+Liquid;AI+Automation+Engineer+%7C+n8n+%2B+Gemini;SEO+%26+Social+Media+Analyst+%7C+Data-Driven" alt="Typing SVG" />
 </a>
 
 <br/>
 
+<a href="https://aarifnsu.github.io/arif/"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=googlechrome&logoColor=00C7B7" /></a>
 <a href="https://www.linkedin.com/in/arif-nsu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.fiverr.com/aarif_nsu/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
 <a href="https://upwork.com/freelancers/arifuli104"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
@@ -151,6 +152,7 @@ Available for **Shopify development**, **AI workflow automation**, and **SEO con
 <a href="https://www.seoclerk.com/user/aarifnsu"><img src="https://img.shields.io/badge/SEOClerk-FF6600?style=for-the-badge&logoColor=white" /></a>
 
 **Connect:**
+<a href="https://aarifnsu.github.io/arif/"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=googlechrome&logoColor=00C7B7" /></a>
 <a href="https://www.linkedin.com/in/arif-nsu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/@arif-nsu"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://www.facebook.com/aarif.nsu/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
