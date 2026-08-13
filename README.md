@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=MD%20ARIFUL%20ISLAM&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Shopify%20Developer%20%C2%B7%20AI%20Automation%20%C2%B7%20SEO%20Analyst&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=MD%20ARIFUL%20ISLAM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Shopify%20Developer%20%7C%20AI%20Automation%20%7C%20SEO%20%26%20Social%20Media%20Analyst&descAlignY=55&descSize=18" width="100%" />
 
 <a href="https://aarifnsu.github.io/Portfolio/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&width=650&lines=Shopify+Web+Developer+%7C+Theme+%26+Liquid;AI+Automation+Engineer+%7C+n8n+%2B+Gemini;SEO+%26+Social+Media+Analyst+%7C+Data-Driven" alt="Typing SVG" />
@@ -120,22 +120,7 @@ All three share one production pattern: **schedule → collect → dedupe → LL
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aarifnsu&show_icons=true&count_private=true&hide_border=true&bg_color=0F2027&title_color=00C7B7&text_color=ffffff&icon_color=00C7B7" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarifnsu&layout=compact&hide_border=true&langs_count=8&bg_color=0F2027&title_color=00C7B7&text_color=ffffff" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Aarifnsu&hide_border=true&background=0F2027&stroke=00C7B7&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
-
-</div>
-
----
-
-## 🎯 Experience Snapshot
+## 🎯 Experience & Credentials
 
 ```text
 Style Maniacs        Web Developer & SEO Analytics       Jul 2026 – Present
@@ -144,7 +129,9 @@ Betopia Group        Shopify Web Developer               Dec 2025 – Jan 2026
 Bizcope Digital Ltd  SEO Executive                       Aug 2025 – Dec 2025
 ```
 
-**Certification:** Shopify Theme Development — Ostad (Nov 2025)
+**Education** — MSc Computer Science, AI major (AIUB, GPA 3.56) · BSc Computer Science & Engineering (North South University)
+
+**Certification** — Shopify Theme Development, Ostad (Nov 2025)
 
 ---
 
