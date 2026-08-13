@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=MD%20ARIFUL%20ISLAM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Shopify%20Developer%20%7C%20AI%20Automation%20%7C%20SEO%20%26%20Social%20Media%20Analyst&descAlignY=55&descSize=18" width="100%" />
+<h1>MD ARIFUL ISLAM</h1>
+<h3>Shopify Web Developer &nbsp;·&nbsp; AI Automation Engineer &nbsp;·&nbsp; SEO &amp; Social Media Analyst</h3>
 
 <a href="https://aarifnsu.github.io/Portfolio/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&width=650&lines=Shopify+Web+Developer+%7C+Theme+%26+Liquid;AI+Automation+Engineer+%7C+n8n+%2B+Gemini;SEO+%26+Social+Media+Analyst+%7C+Data-Driven" alt="Typing SVG" />
@@ -157,6 +158,6 @@ Available for **Shopify development**, **AI workflow automation**, and **SEO con
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
+<sub>Built stores. Automated workflows. Ranked pages. Let's build yours.</sub>
 
 </div>
