@@ -39,7 +39,7 @@ I build **e-commerce stores that convert** and **AI workflows that do the boring
 - 🛍️ **Shopify Web Developer** — custom themes, Liquid, app integration, conversion-focused stores
 - 🤖 **AI Automation Engineer** — n8n + Gemini pipelines for monitoring, reporting and content intelligence
 - 📈 **SEO & Social Media Analyst** — keyword research, competitor analysis, technical SEO, sentiment & trend tracking
-- 🎓 **MSc in Computer Science (AI major)** — AIUB · GPA 3.56
+- 🎓 **MSc in Computer Science (AI major)**
 - 💼 Currently **Web Developer & SEO Analyst** at [Style Maniacs](https://stylemaniacs.com/)
 
 > I use search and audience data to decide *what* to build, then build it fast and make it rank.
@@ -131,7 +131,7 @@ Betopia Group        Shopify Web Developer               Dec 2025 – Jan 2026
 Bizcope Digital Ltd  SEO Executive                       Aug 2025 – Dec 2025
 ```
 
-**Education** — MSc Computer Science, AI major (AIUB, GPA 3.56) · BSc Computer Science & Engineering (North South University)
+**Education** — MSc Computer Science, AI major (AIUB) · BSc Computer Science & Engineering (North South University)
 
 **Certification** — Shopify Theme Development, Ostad (Nov 2025)
 
