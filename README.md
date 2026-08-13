@@ -1,30 +1,175 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aarifnsu&label=Profile%20views&color=0e75b6&style=flat" alt="aarifnsu" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=MD%20ARIFUL%20ISLAM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Shopify%20Developer%20%7C%20AI%20Automation%20%7C%20SEO%20%26%20Social%20Media%20Analyst&descAlignY=55&descSize=18" width="100%" />
 
-<h1 align="center">Hi 👋, I'm MD.ARIFUL ISLAM</h1>
-<h3 align="center">A CSE Student from Bangladesh</h3>
+<a href="https://aarifnsu.github.io/Portfolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&width=650&lines=Shopify+Web+Developer+%7C+Theme+%26+Liquid;AI+Automation+Engineer+%7C+n8n+%2B+Gemini;SEO+%26+Social+Media+Analyst+%7C+Data-Driven" alt="Typing SVG" />
+</a>
 
+<br/>
 
-- 🔭 I’m currently working on [Machine learning](AI)
+<a href="https://www.linkedin.com/in/arif-nsu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.fiverr.com/aarif_nsu/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+<a href="https://upwork.com/freelancers/arifuli104"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+<a href="mailto:aarif.nsu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/8801612824292"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-- 🌱 I’m currently learning **HTML,CSS,JS**
+<a href="https://www.seoclerk.com/user/aarifnsu"><img src="https://img.shields.io/badge/SEOClerk-FF6600?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.youtube.com/@arif-nsu"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.facebook.com/aarif.nsu/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://discord.com/users/arif_52351"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://stylemaniacs.com/"><img src="https://img.shields.io/badge/Live_Store-96BF48?style=for-the-badge&logo=shopify&logoColor=white" /></a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aarifnsu](https://github.com/Aarifnsu)
+<br/>
 
-- 📝 I regularly write articles on [https://www.facebook.com/aarif.nsu](https://www.facebook.com/aarif.nsu)
+<img src="https://komarev.com/ghpvc/?username=Aarifnsu&label=Profile%20Views&color=00c7b7&style=flat-square" />
+<img src="https://img.shields.io/badge/Based_in-Dhaka,%20Bangladesh-0F2027?style=flat-square&logo=googlemaps&logoColor=00C7B7" />
+<img src="https://img.shields.io/badge/Open_to-Remote%20Work-2C5364?style=flat-square" />
 
-- 📫 How to reach me **aarif.nsu@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://sites.google.com/view/arifnsu/home?fbclid=IwAR29J6ipHL17GoORsq407esV7qU4GAmfgH58DxH_yoZV00-QmYZWQ4pqutQ](https://sites.google.com/view/arifnsu/home?fbclid=IwAR29J6ipHL17GoORsq407esV7qU4GAmfgH58DxH_yoZV00-QmYZWQ4pqutQ)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ariful islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariful islam" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/aarif.nsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aarif.nsu" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/aarif.nsu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aarif.nsu/" height="30" width="40" /></a>
-</p>
+## 👋 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+I build **e-commerce stores that convert** and **AI workflows that do the boring work** — backed by real SEO and audience data, not guesswork.
 
+- 🛍️ **Shopify Web Developer** — custom themes, Liquid, app integration, conversion-focused stores
+- 🤖 **AI Automation Engineer** — n8n + Gemini pipelines for monitoring, reporting and content intelligence
+- 📈 **SEO & Social Media Analyst** — keyword research, competitor analysis, technical SEO, sentiment & trend tracking
+- 🎓 **MSc in Computer Science (AI major)** — AIUB · GPA 3.56
+- 💼 Currently **Web Developer & SEO Analyst** at [Style Maniacs](https://stylemaniacs.com/)
+
+> I use search and audience data to decide *what* to build, then build it fast and make it rank.
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**E-commerce & Front-End**
+
+<img src="https://skillicons.dev/icons?i=shopify,html,css,js,tailwind,bootstrap,git,github" />
+
+**AI Automation & Backend**
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,postgres,cpp,c" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+
+**SEO & Analytics**
+
+<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
+<img src="https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Trends-4285F4?style=for-the-badge&logo=googletrends&logoColor=white" />
+
+</div>
+
+---
+
+## 💼 What I Do
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🛍️ Shopify Development
+Custom theme development, Liquid templating, app & extension integration, responsive builds, speed and Core Web Vitals optimization, and store migrations.
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 AI Automation
+End-to-end n8n workflows: data collection from RSS/APIs, LLM analysis with structured JSON output, automated report generation to Google Docs/Sheets, and scheduled notifications.
+
+</td>
+<td width="33%" valign="top">
+
+### 📈 SEO & Social Analytics
+On-page & technical SEO, keyword and competitor research, backlink strategy, content optimization, plus sentiment and trend analysis across social platforms.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Automation Series — `n8n` + `Gemini` + `Google Workspace`
+
+| Project | What It Does | Stack |
+|---|---|---|
+| **[Public Information Monitoring & Early Alert System](https://github.com/Aarifnsu/Public-Information-Monitoring-Early-Alert-System)** | Aggregates 4 news feeds + Google Trends daily, runs AI triage on 15 items, and outputs a structured monitoring report with priority flags and topics to watch. | `n8n` `Gemini 2.5` `RSS` `Google Docs API` |
+| **[Public Sentiment Analyzer](https://github.com/Aarifnsu/public-sentiment-analyzer)** | Pulls live YouTube & Reddit comments, classifies each as Positive/Negative/Neutral with confidence scores, and generates an aggregated sentiment report. | `n8n` `YouTube API` `Reddit API` `Gemini` |
+| **[AI News Brief Generator](https://github.com/Aarifnsu/ai-news-brief-generator)** | Scheduled 08:00 pipeline across 5 RSS sources — dedupes, ranks, AI-summarizes, and publishes a formatted daily brief to Google Docs. | `n8n` `Gemini` `LangChain` `Gmail API` |
+
+All three share one production pattern: **schedule → collect → dedupe → LLM with structured output parser → format → deliver.**
+
+### 🛒 Live E-commerce Stores
+
+| Store | Focus | Role |
+|---|---|---|
+| **[Style Maniacs](https://stylemaniacs.com/)** | Fashion & lifestyle | Full Shopify build, theme customization, on-page SEO, performance optimization |
+| **[Sportsworld165](https://sportsworld165.com)** | Sports apparel & accessories | Store development, product architecture, conversion optimization |
+| **[Natural Farm Pet](http://naturalfarmpet.com/)** | Natural pet treats & products | Store development and SEO-friendly structure |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aarifnsu&show_icons=true&count_private=true&hide_border=true&bg_color=0F2027&title_color=00C7B7&text_color=ffffff&icon_color=00C7B7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarifnsu&layout=compact&hide_border=true&langs_count=8&bg_color=0F2027&title_color=00C7B7&text_color=ffffff" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarifnsu&hide_border=true&background=0F2027&stroke=00C7B7&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+---
+
+## 🎯 Experience Snapshot
+
+```text
+Style Maniacs        Web Developer & SEO Analytics       Jul 2026 – Present
+EcomClips            Shopify Web Developer               Feb 2026 – Jul 2026
+Betopia Group        Shopify Web Developer               Dec 2025 – Jan 2026
+Bizcope Digital Ltd  SEO Executive                       Aug 2025 – Dec 2025
+```
+
+**Certification:** Shopify Theme Development — Ostad (Nov 2025)
+
+---
+
+## 📬 Let's Work Together
+
+<div align="center">
+
+Available for **Shopify development**, **AI workflow automation**, and **SEO consulting** — remote, worldwide.
+
+<a href="mailto:aarif.nsu@gmail.com"><img src="https://img.shields.io/badge/aarif.nsu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/8801612824292"><img src="https://img.shields.io/badge/+880_1612--824292-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+**Hire me on:**
+<a href="https://www.fiverr.com/aarif_nsu/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+<a href="https://upwork.com/freelancers/arifuli104"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+<a href="https://www.seoclerk.com/user/aarifnsu"><img src="https://img.shields.io/badge/SEOClerk-FF6600?style=for-the-badge&logoColor=white" /></a>
+
+**Connect:**
+<a href="https://www.linkedin.com/in/arif-nsu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.youtube.com/@arif-nsu"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.facebook.com/aarif.nsu/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://discord.com/users/arif_52351"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
+
+</div>
