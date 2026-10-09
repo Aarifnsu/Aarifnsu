@@ -9,8 +9,8 @@
 
 <br/>
 
-<a href="https://aarifnsu.github.io/arif/"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=googlechrome&logoColor=00C7B7" /></a>
-<a href="https://arifaiautomationhub.com/"><img src="https://img.shields.io/badge/Work_With_Me-00897B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://aarifnsu.github.io/arif/"><img src="https://img.shields.io/badge/Portfolio-0D1B2A?style=for-the-badge&logo=githubpages&logoColor=00C7B7" /></a>
+<a href="https://arifaiautomationhub.com/"><img src="https://img.shields.io/badge/Work_With_Me-7C3AED?style=for-the-badge&logo=rocket.chat&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/arif-nsu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.fiverr.com/aarif_nsu/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
 <a href="https://upwork.com/freelancers/arifuli104"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
@@ -153,7 +153,7 @@ Available for **Shopify development**, **AI workflow automation**, and **SEO con
 <a href="https://www.seoclerk.com/user/aarifnsu"><img src="https://img.shields.io/badge/SEOClerk-FF6600?style=for-the-badge&logoColor=white" /></a>
 
 **Connect:**
-<a href="https://aarifnsu.github.io/arif/"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=googlechrome&logoColor=00C7B7" /></a>
+<a href="https://aarifnsu.github.io/arif/"><img src="https://img.shields.io/badge/Portfolio-0D1B2A?style=for-the-badge&logo=githubpages&logoColor=00C7B7" /></a>
 <a href="https://www.linkedin.com/in/arif-nsu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/@arif-nsu"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://www.facebook.com/aarif.nsu/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
