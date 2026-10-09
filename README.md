@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://aarifnsu.github.io/arif/"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=googlechrome&logoColor=00C7B7" /></a>
-<a href="https://arifaiautomationhub.com/"><img src="https://img.shields.io/badge/Agency_Site-2C5364?style=for-the-badge&logo=googlechrome&logoColor=00C7B7" /></a>
+<a href="https://arifaiautomationhub.com/"><img src="https://img.shields.io/badge/Work_With_Me-00897B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/arif-nsu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.fiverr.com/aarif_nsu/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
 <a href="https://upwork.com/freelancers/arifuli104"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
